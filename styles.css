@@ -1,0 +1,15 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background: white;
+    margin: 0;
+}
+div.post-Header .fa-ellipsis{
+    font-size: 30px;
+    margin-left: 410px;
+    display:inline-block;
+    transform: rotate(90deg);
+}
+div.post-Header{
+    display: flex;
+    padding: 10px;
+}
