@@ -13,3 +13,37 @@ div.post-Header{
     display: flex;
     padding: 10px;
 }
+div{
+    box-sizing: border-box;
+}
+div.post{
+    width: 600px;
+    margin: auto;
+}
+div.post-Header .img2{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: -20px;
+}
+div.post-Icons .fa-bookmark{
+    float: right;
+}
+div.post-Icons{
+    font-size: 30px;
+    margin-top: 20px;
+}
+div.post-Icons .fa-comment, div.post-Icons .fa-paper-plane {
+    margin-left: 5px;
+}
+div.post-Image .img1 {
+    width: 610px;
+    height: 600px;
+}
+div.post-Header .p2{
+    position: relative;
+    left: -49px;
+}
+div.post-Header p, div.post-Body p {
+    font-size: 15px;
+}
